@@ -2,39 +2,45 @@
 
 
 
-# [Project Name] 🎯
+# [360 degree head rotate camera] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Cherish]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [keerthika.M] - [ jain university]
+- Member 2: [Hareeshma.H] - [jain university]
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+[A Fun and useless webcam project that creates the illusion of a 360degree rotating head]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[humans can only move their heads within a limited range their is no button that let us rotate our head completely around so we decided to solve this extremely unnecessary around]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[The application uses the webcam to detect a person's face. When the user activates the effect, the detected face is visually rotated and flipped through different angles, creating a funny simulation of a 360° head rotation.
+The person's actual head doesn't move—the effect is entirely generated on the screen.]
 
 ## Technical Details
 ### Technologies/Components Used
+
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Python
+OpenCV
+NumPy
+Tkinter
+Webcam
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+📷 Live webcam feed
+🙂 Face detection
+🔄 360° rotation simulation
+🤪 Funny face effect
+🖥️ Real-time display
+▶️ Start/Stop controls
 
 ### Implementation
 For Software:
