@@ -45,7 +45,10 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+# 1. Clone or download this project folder, then open your terminal inside it.
+
+# 2. Install all the required Python libraries at once:
+pip install -r requirements.txt
 
 # Run
 python '360 degree rotate head camera'
