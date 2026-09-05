@@ -58,16 +58,16 @@ For Software:
 
 # Screenshots 
 ![Home](IMAGE1.png)
-*Add caption explaining what this shows*
+*home screen of our page*
 
 ![Funny Face 1](IMAGE2.png)
-*Add caption explaining what this shows*
+*this shows a funny face with a colour change*
 
 ![Funny Face 2](IMAGE3.png)
-*Add caption explaining what this shows*
+*this shows a funny face with an emoji *
 
 ![Normal](IMAGE4.png)
-*Add caption explaining what this shows*
+*shows our real face *
 
 
 ### Project Demo
