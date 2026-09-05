@@ -94,10 +94,9 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+## Team Contribution]: [Specific contributions]
+- [keerthika.m]: [coding]
+-[ hareeshma.H]: [DESIGNING]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
